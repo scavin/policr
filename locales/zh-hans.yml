@@ -197,9 +197,9 @@ baned_menu:
   unban: "解除封禁"
   whitelist: "加入白名单"
 halal:
-  found: "d(`･∀･)b 诶发现一名清真，看我干掉它……"
-  kicked: "(ﾉ>ω<)ﾉ 已成功丢出[一只](tg://user?id=%{user_id})清真，真棒！"
-  kick_failed: "╰(〒皿〒)╯ [这枚](tg://user?id=%{user_id})清真移除失败了。原因：%{reason}"
+  found: "d(`･∀･)b 诶发现一名 spam，看我干掉它……"
+  kicked: "(ﾉ>ω<)ﾉ 已成功封禁(tg://user?id=%{user_id})，真棒！"
+  kick_failed: "╰(〒皿〒)╯ (tg://user?id=%{user_id})移除失败了。原因：%{reason}"
 captcha_result:
   error:
     desc: "踢不掉[他](tg://user?id=%{user_id})诶（%{reason}）……"
